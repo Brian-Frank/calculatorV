@@ -1,0 +1,36 @@
+
+* {
+    font-family: 'Fraunces', serif;
+    color: #fff;
+}
+
+#numero{
+    color: black;
+}
+#bruto {
+    color: black;
+}
+
+#porcentaje{
+    color: black;
+}
+body {
+    margin: 0;
+    background-color: #224870;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.calcular {
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 50px;
+    font-size: 1rem;
+    background-color: green;
+}
